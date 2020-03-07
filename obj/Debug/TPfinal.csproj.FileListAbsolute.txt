@@ -1,0 +1,30 @@
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\bin\Debug\TPfinal.exe.config
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\bin\Debug\TPfinal.exe
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\bin\Debug\TPfinal.pdb
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.csprojResolveAssemblyReference.cache
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.Form1.resources
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.Properties.Resources.resources
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.GenerateResource.cache
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.exe
+C:\Users\javie\OneDrive\Tecnicatura en Programacion\Programacion 1\TP Final\TPfinal\TPfinal\obj\Debug\TPfinal.pdb
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\bin\Debug\TPfinal.exe.config
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\bin\Debug\TPfinal.exe
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\bin\Debug\TPfinal.pdb
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.Form1.resources
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.exe
+C:\Users\Ricardo\Desktop\TPfinal\TPfinal\obj\Debug\TPfinal.pdb
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.exe.config
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.exe
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\bin\Debug\TPfinal.pdb
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csprojAssemblyReference.cache
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.form1.resources
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.Properties.Resources.resources
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.exe
+C:\Users\Ricardo\source\repos\TPfinal\TPfinal\obj\Debug\TPfinal.pdb
